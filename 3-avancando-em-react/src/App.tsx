@@ -4,8 +4,10 @@ function App() {
 
   return (
     <>
+      <h1>Avançando em React</h1>
+        {/* Imagem em public */}
       <div>
-        <h1>Avançando em React</h1>
+        <img src='/lufa.png' alt='lufalufa'/>
       </div>
     </>
   )
